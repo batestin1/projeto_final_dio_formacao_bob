@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-07-03T00:36:24.463Z",
+  "executionTime": "0.17s",
+  "summary": {
+    "total": 101,
+    "passed": 101,
+    "failed": 0,
+    "successRate": "100.00%",
+    "metaAtingida": true
+  },
+  "modules": {
+    "trilha": {
+      "passed": 40,
+      "failed": 0,
+      "total": 40,
+      "successRate": 100,
+      "failedTests": []
+    },
+    "desafio": {
+      "passed": 31,
+      "failed": 0,
+      "total": 31,
+      "successRate": 100,
+      "failedTests": []
+    },
+    "certificado": {
+      "passed": 30,
+      "failed": 0,
+      "total": 30,
+      "successRate": 100,
+      "failedTests": []
+    }
+  },
+  "failedTests": []
+}

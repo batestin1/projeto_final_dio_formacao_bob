@@ -1,0 +1,51 @@
+{
+  "commands": [
+    {
+      "name": "trilha",
+      "description": "Exibe o plano de estudos detalhado de uma trilha/tecnologia da DIO",
+      "usage": "/trilha <tecnologia>",
+      "examples": [
+        "/trilha Python",
+        "/trilha JavaScript",
+        "/trilha React",
+        "/trilha Java"
+      ],
+      "handler": {
+        "type": "node",
+        "script": "projeto_final_dio_formacao_bob/dio_explorer/commands/index.ts",
+        "function": "processarComando"
+      }
+    },
+    {
+      "name": "desafio",
+      "description": "Gera um desafio de código aleatório baseado na tecnologia e nível escolhidos",
+      "usage": "/desafio <tecnologia> [nivel]",
+      "examples": [
+        "/desafio Python",
+        "/desafio JavaScript Básico",
+        "/desafio Java Intermediário",
+        "/desafio React Avançado"
+      ],
+      "handler": {
+        "type": "node",
+        "script": "projeto_final_dio_formacao_bob/dio_explorer/commands/index.ts",
+        "function": "processarComando"
+      }
+    },
+    {
+      "name": "certificado",
+      "description": "Gera um certificado fictício de conclusão em formato Markdown",
+      "usage": "/certificado \"<nome>\" \"<tecnologia>\"",
+      "examples": [
+        "/certificado \"João Silva\" \"Python\"",
+        "/certificado \"Maria Santos\" \"JavaScript\"",
+        "/certificado \"Pedro Oliveira\" \"Java\""
+      ],
+      "handler": {
+        "type": "node",
+        "script": "projeto_final_dio_formacao_bob/dio_explorer/commands/index.ts",
+        "function": "processarComando"
+      }
+    }
+  ]
+}

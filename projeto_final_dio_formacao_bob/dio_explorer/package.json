@@ -1,0 +1,40 @@
+{
+  "name": "dio-explorer",
+  "version": "1.0.0",
+  "description": "Sistema de comandos slash para explorar trilhas, desafios e certificados da plataforma DIO",
+  "main": "commands/index.ts",
+  "scripts": {
+    "test": "ts-node commands/tests.ts",
+    "exemplo": "ts-node exemplo-uso.ts",
+    "build": "tsc",
+    "start": "ts-node commands/index.ts"
+  },
+  "keywords": [
+    "dio",
+    "digital-innovation-one",
+    "trilhas",
+    "desafios",
+    "certificados",
+    "educacao",
+    "tecnologia",
+    "slash-commands"
+  ],
+  "author": "DIO - Digital Innovation One",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalinnovationone/dio-explorer"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalinnovationone/dio-explorer/issues"
+  },
+  "homepage": "https://github.com/digitalinnovationone/dio-explorer#readme"
+}

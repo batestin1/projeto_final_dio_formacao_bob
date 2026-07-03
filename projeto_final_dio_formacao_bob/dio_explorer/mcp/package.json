@@ -1,0 +1,56 @@
+{
+  "name": "@dio/explorer-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server para DIO Explorer - Acesso via API, HTTPS e SSO às trilhas, desafios e certificados da DIO",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "bin": {
+    "dio-explorer-mcp": "./dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "dio",
+    "digital-innovation-one",
+    "api",
+    "education",
+    "learning",
+    "certificates",
+    "challenges"
+  ],
+  "author": "DIO - Digital Innovation One",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/express": "^4.17.21",
+    "@types/cors": "^2.8.17",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/bcryptjs": "^2.4.6",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalinnovationone/dio-explorer"
+  }
+}

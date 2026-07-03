@@ -1,0 +1,18 @@
+# Bob Ignore File
+# Este arquivo define padrões de arquivos e diretórios que devem ser ignorados pelo Bob
+
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Cache e dados temporários
+data/cache-progresso/
+
+# Certificados emitidos
+docs/certificados-emitidos/
+
+# Arquivos temporários
+*.tmp

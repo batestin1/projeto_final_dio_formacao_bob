@@ -1,0 +1,53 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build
+dist/
+build/
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Exceto arquivos de configuração
+!jest.config.js
+!webpack.config.js
+
+# Certificados gerados
+docs/certificados-emitidos/*.md
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testes
+coverage/
+.nyc_output/
+
+# Temporários
+*.tmp
+*.temp
+.cache/
+
+# Sistema operacional
+Thumbs.db

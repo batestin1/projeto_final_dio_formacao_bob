@@ -1,0 +1,260 @@
+================================================================================
+TESTE DE FLUXO COMPLETO - TRILHA JAVA
+================================================================================
+
+Data/Hora: 02/07/2026, 21:36:58
+Aluno: João Silva
+Tecnologia: Java
+Nível do Desafio: Intermediário
+
+================================================================================
+
+PASSO 1: CONSULTA DE TRILHA
+--------------------------------------------------------------------------------
+
+# 🎯 Plano de Estudos - Java
+
+📚 **2 trilha(s) encontrada(s)**
+
+---
+
+## 1. Formação Java Developer
+
+### 📊 Informações Gerais
+- **Tecnologia:** Java
+- **Nível:** Intermediário
+- **Módulos:** 18
+- **XP Total:** 22.000 pontos
+- **Acesso Vitalício:** ✅ Sim
+
+### 🏆 Badges Disponíveis
+- 🎖️ Java Core
+- 🎖️ Spring Framework
+- 🎖️ Microservices
+
+### 🎥 Lives ao Vivo
+- 📺 Java Avançado
+- 📺 Spring Boot na Prática
+- 📺 Arquitetura de Microserviços
+
+### 🎁 Promoções Ativas
+- 🔥 Acesso gratuito por 3 meses
+
+### 📝 Plano de Estudos Sugerido
+
+#### Fase 1: Fundamentos (Módulos 1-6)
+- Conceitos básicos e sintaxe
+- Estruturas de dados fundamentais
+- Primeiros projetos práticos
+- **Tempo estimado:** 6 semanas
+
+#### Fase 2: Intermediário (Módulos 7-12)
+- Conceitos avançados
+- Padrões de projeto
+- Desenvolvimento de aplicações completas
+- **Tempo estimado:** 6 semanas
+
+#### Fase 3: Avançado (Módulos 13-18)
+- Arquitetura e boas práticas
+- Otimização e performance
+- Projeto final integrador
+- **Tempo estimado:** 6 semanas
+
+### 🎯 Próximos Passos
+1. Inscreva-se na formação
+2. Configure seu ambiente de desenvolvimento
+3. Participe das lives ao vivo
+4. Complete os desafios de código (use `/desafio`)
+5. Obtenha seu certificado (use `/certificado`)
+
+---
+
+## 2. Formação JavaScript Full Stack
+
+### 📊 Informações Gerais
+- **Tecnologia:** JavaScript
+- **Nível:** Intermediário
+- **Módulos:** 20
+- **XP Total:** 25.000 pontos
+- **Acesso Vitalício:** ✅ Sim
+
+### 🏆 Badges Disponíveis
+- 🎖️ JavaScript ES6+
+- 🎖️ React
+- 🎖️ Node.js
+- 🎖️ MongoDB
+
+### 🎥 Lives ao Vivo
+- 📺 React Hooks
+- 📺 API REST com Node.js
+- 📺 Deploy em Produção
+
+### 📝 Plano de Estudos Sugerido
+
+#### Fase 1: Fundamentos (Módulos 1-7)
+- Conceitos básicos e sintaxe
+- Estruturas de dados fundamentais
+- Primeiros projetos práticos
+- **Tempo estimado:** 7 semanas
+
+#### Fase 2: Intermediário (Módulos 8-14)
+- Conceitos avançados
+- Padrões de projeto
+- Desenvolvimento de aplicações completas
+- **Tempo estimado:** 7 semanas
+
+#### Fase 3: Avançado (Módulos 15-20)
+- Arquitetura e boas práticas
+- Otimização e performance
+- Projeto final integrador
+- **Tempo estimado:** 6 semanas
+
+### 🎯 Próximos Passos
+1. Inscreva-se na formação
+2. Configure seu ambiente de desenvolvimento
+3. Participe das lives ao vivo
+4. Complete os desafios de código (use `/desafio`)
+5. Obtenha seu certificado (use `/certificado`)
+
+
+
+================================================================================
+
+PASSO 2: GERAÇÃO DE DESAFIO
+--------------------------------------------------------------------------------
+
+# 🎯 Desafio de Código - Java
+
+## API REST com Spring Boot
+
+**Dificuldade:** Intermediário | **Pontos:** 250 XP
+
+---
+
+### 📝 Descrição
+
+Desenvolva uma API REST completa para gerenciamento de produtos com CRUD e paginação.
+
+### ✅ Requisitos
+
+1. Endpoints CRUD
+2. Validação de dados
+3. Paginação e ordenação
+4. Tratamento de erros
+5. Documentação Swagger
+
+### 💡 Dicas
+
+- 💭 Use Spring Data JPA
+- 💭 Implemente DTOs
+- 💭 Adicione testes unitários
+
+### 📊 Exemplos
+
+**Exemplo 1:**
+```
+Entrada: GET /api/produtos?page=0&size=10
+Saída: Lista paginada de produtos
+```
+
+### 🏆 Recompensas
+
+- ⭐ 250 XP ao completar
+- 🎖️ Badge de conclusão
+- 📈 Progresso na trilha Formação Java Developer
+
+### 🚀 Próximos Passos
+
+1. Leia atentamente os requisitos
+2. Planeje sua solução
+3. Implemente o código
+4. Teste com os exemplos fornecidos
+5. Submeta sua solução na plataforma DIO
+
+💪 **Boa sorte!** Use `/desafio Java Intermediário` para gerar outro desafio.
+
+================================================================================
+
+PASSO 3: GERAÇÃO DE CERTIFICADO
+--------------------------------------------------------------------------------
+
+# ✅ Certificado Gerado com Sucesso!
+
+🎉 **Parabéns, João Silva!**
+
+Seu certificado de conclusão da formação **Formação Java Developer** foi gerado com sucesso!
+
+---
+
+### 📄 Informações do Certificado
+
+- **Aluno:** João Silva
+- **Formação:** Formação Java Developer
+- **Tecnologia:** Java
+- **Nível:** Intermediário
+- **Carga Horária:** 45 horas
+- **Data de Emissão:** 2 de julho de 2026
+- **Código:** `DIO-1783039018699-8964`
+
+---
+
+### 💾 Arquivo Salvo
+
+📁 **Local:** `/Users/mayconcyprianobatestin/Documents/bob/[2026][DIO]formacao_ibm_bob/projeto_final/projeto/projeto_final_dio_formacao_bob/projeto_final_dio_formacao_bob/dio_explorer/docs/certificados-emitidos/certificado_João_Silva_Java_1783039018700.md`
+
+Você pode abrir o arquivo para visualizar o certificado completo em formato Markdown.
+
+---
+
+### 🎯 Próximos Passos
+
+1. ✅ Abra o arquivo do certificado
+2. 📤 Compartilhe nas redes sociais
+3. 💼 Adicione ao seu LinkedIn
+4. 📚 Continue aprendendo com `/trilha <tecnologia>`
+5. 🏆 Desafie-se com `/desafio <tecnologia> <nível>`
+
+---
+
+### 🌟 Conquistas Desbloqueadas
+
+- 🎖️ Java Core
+- 🎖️ Spring Framework
+- 🎖️ Microservices
+
+**Total de XP:** 22.000 pontos 🚀
+
+---
+
+🎊 **Parabéns pela sua dedicação e conquista!**
+
+Continue sua jornada de aprendizado na DIO! 💪
+
+================================================================================
+
+RESUMO DO FLUXO
+--------------------------------------------------------------------------------
+
+✅ Status: FLUXO COMPLETO EXECUTADO COM SUCESSO
+
+Etapas Concluídas:
+  ✓ Trilha consultada: Formação Java Developer
+  ✓ Desafio gerado: Nível Intermediário
+  ✓ Certificado emitido para: João Silva
+
+================================================================================
+
+VALIDAÇÕES
+--------------------------------------------------------------------------------
+
+✅ trilhaContemJava: true
+✅ trilhaContemFormacao: true
+✅ desafioContemJava: true
+✅ desafioContemNivel: true
+✅ certificadoContemNome: true
+✅ certificadoContemJava: true
+✅ certificadoGerado: true
+
+✅ Todas as validações: PASSOU
+
+================================================================================
